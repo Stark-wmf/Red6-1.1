@@ -1,0 +1,6 @@
+请求url：http://localhost:8080/
+参数：username，password
+username：用户名 password用户密码
+请求方式：Post
+注册成功返回欢迎username
+失败返回失败
